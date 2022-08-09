@@ -1,0 +1,68 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Angular",
+      "email": "Sat@mail.com",
+      "adderss": "South street"
+    },
+    {
+      "id": 2,
+      "name": "Bootstrap",
+      "email": "john@mail.com",
+      "adderss": "North street"
+    },
+    {
+      "id": 3,
+      "name": "Cypress",
+      "email": "robert@mail.com",
+      "adderss": "East street"
+    },
+    {
+      "id": 4,
+      "name": "Docker",
+      "email": "mani@mail.com",
+      "adderss": "West street"
+    },
+    {
+      "name": "Ecmascript",
+      "email": "balajiece1610@gmail.com",
+      "adderss": "Street",
+      "id": 5
+    },
+    {
+      "name": "Flexbox",
+      "email": "test3@gmail.com",
+      "adderss": "west",
+      "id": 6
+    },
+    {
+      "name": "Google",
+      "email": "google@gmail.com",
+      "adderss": "googlestreet",
+      "id": 7
+    },
+    {
+      "name": "Flexbox",
+      "email": "balaji@alphabsolutions.com",
+      "adderss": "169 Parva singh Raja Street",
+      "id": 8
+    },
+    {
+      "name": "jhghjfgddddfghhhjjjkkkllkllllljhhggg",
+      "email": "hbhli9ujggffhj",
+      "adderss": "nbhufgtfhghkkkllljhjg",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
